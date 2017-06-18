@@ -90,17 +90,12 @@
 
 <br><br><br>
     <div class="row">
-      <div class="col-xs-6">
+      <div class="col-xs-10">
   	     <h1 class="text-center">Interior Design and Textiles</h1>
   	  <br>
   	     <p class="pull-left text-justify">Christina Jacquet is a French-born, Scotland-based interior designer and textile artist. She studies interior design at the Glasgow School of Art. Her inspiration comes from European modernist movements in architecture, especially from Corbusier.</p>
   	  </div>
-
-      <div class="col-xs-4">
-        <div>
-          <img src="https://assets.community.lomography.com/61/fa075f4a07b9b9bcbd57ad852c09312ba18ec8/1216x809x2.jpg?auth=4a6b37fbc29624b8a069857a34b2561634385c75" alt="Christina Jacquet" class="img-circle" width="490" height="290">
-        </div>
-      </div>
+      
       <div class="col-xs-2 text-center">
         <ul class="nav nav-pills nav-stacked">
           <li role="presentation" class="active"><a href="https://www.facebook.com/chrissie.jacquet?ref=br_rs" class="navfacebook" target=".blank">Facebook</a></li>

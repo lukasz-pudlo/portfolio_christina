@@ -98,7 +98,7 @@
 
       <div class="col-xs-4">
         <div>
-          <img src="https://assets.community.lomography.com/61/fa075f4a07b9b9bcbd57ad852c09312ba18ec8/1216x809x2.jpg?auth=4a6b37fbc29624b8a069857a34b2561634385c75" alt="Christina Jacquet" class="img-circle" width="475" height="290">
+          <img src="https://assets.community.lomography.com/61/fa075f4a07b9b9bcbd57ad852c09312ba18ec8/1216x809x2.jpg?auth=4a6b37fbc29624b8a069857a34b2561634385c75" alt="Christina Jacquet" class="img-circle" width="490" height="290">
         </div>
       </div>
       <div class="col-xs-2 text-center">

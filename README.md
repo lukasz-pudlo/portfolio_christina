@@ -95,7 +95,9 @@
   	  <br>
   	     <p class="pull-left text-justify">Christina Jacquet is a French-born, Scotland-based interior designer and textile artist. She studies interior design at the Glasgow School of Art. Her inspiration comes from European modernist movements in architecture, especially from Corbusier.</p>
   	  </div>
-      
+	  
+<br><br><br><br>  
+ 
       <div class="col-xs-2 text-center">
         <ul class="nav nav-pills nav-stacked">
           <li role="presentation" class="active"><a href="https://www.facebook.com/chrissie.jacquet?ref=br_rs" class="navfacebook" target=".blank">Facebook</a></li>
